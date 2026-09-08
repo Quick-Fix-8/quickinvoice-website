@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://quickinvoiceofficial.netlify.app/sitemap.xml
